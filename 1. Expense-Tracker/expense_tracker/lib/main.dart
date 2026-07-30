@@ -48,7 +48,7 @@ void main() {
           ),
         ),
       ),
-      themeMode: ThemeMode.light,
+      themeMode: ThemeMode.dark,
       home: Expenses(),
     ),
   );
